@@ -1,3 +1,8 @@
 # bootcampHW1
 
-README file with description, screenshot, and link to deployed application.
+Description:
+
+Screenshot:
+
+Visit the site here:
+https://cosdaman.github.io/bootcampHW1/
