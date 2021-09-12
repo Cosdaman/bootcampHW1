@@ -65,7 +65,7 @@ header nav ul li {
     background-position: center;
 }
 
-/* content css */
+/* main contents css */
 
 .float-left {
     float: left;
@@ -77,11 +77,33 @@ header nav ul li {
     margin-left: 25px;
 }
 
-.content {
+/* major points css */
+
+.points {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+.points div {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.points img {
+    max-height: 200px;
+}
+
+.points h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* benefits side bar css */
 
 .benefits {
     margin-right: 20px;
@@ -94,43 +116,27 @@ header nav ul li {
     background-color: #2589bd;
 }
 
-.benefit-content {
+.benefits .benefit-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-content h3 {
+.benefits .benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-content img {
+.benefits .benefit-content img {
     display: block;
     margin: 5px auto;
     max-width: 150px;
 }
 
-.benefit-content p{
+.benefits .benefit-content p{
     margin-bottom:32px;
 }
 
-.content div {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content img {
-    max-height: 200px;
-}
-
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* footer css */
 
 footer {
     padding: 30px;
