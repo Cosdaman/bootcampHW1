@@ -23,5 +23,5 @@ The following are screenshots of the website.
 ![image](https://user-images.githubusercontent.com/3162991/133184737-f7839938-683b-4123-9264-50e8f6837c9e.png)
 
 
-**Visit the site here:**
+**Visit the site here:**  
 https://cosdaman.github.io/bootcampHW1/
