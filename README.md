@@ -13,6 +13,8 @@ Added semantics to html
 Organized html and css elements to follow a structure  
 Added alt attributes to images  
 
+Here is a link to the original code:
+https://github.com/Cosdaman/bootcampHW1/tree/main/original%20code
 
 **Screenshots:**
 
